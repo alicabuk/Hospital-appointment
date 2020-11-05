@@ -1,0 +1,38 @@
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojAssemblyReference.cache
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisPaneli.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGiris.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGiris.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaKayit.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorKayit.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaBilgi.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaBilgiDuzenle.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorBilgi.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorBilgiDuzenle.resources
+D:\Ali\PROJELER\C#\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojAssemblyReference.cache
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorBilgi.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorBilgiDuzenle.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGiris.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorKayit.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisPaneli.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaBilgi.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaBilgiDuzenle.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGiris.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaKayit.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+D:\Ali\Uzaktan Ödevler\Veritabanı Destekli Görsel Programlama\Otomasyon Ödevim\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
